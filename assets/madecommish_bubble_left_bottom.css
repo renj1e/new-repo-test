@@ -1,0 +1,11 @@
+@media screen and (min-width:768px){
+#proof-popup {
+    border: none;
+    background: transparent;
+    z-index: 999998;
+    position: fixed;
+    left: 0px;
+    bottom: 20px;
+    margin: 0px 20px;
+}
+}
